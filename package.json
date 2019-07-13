@@ -1,0 +1,23 @@
+{
+  "name": "guess-game",
+  "version": "0.1.0",
+  "description": "A game where you must guess a randomly generated number.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dynosaur/guess-game.git"
+  },
+  "author": "Alejandro Doberenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dynosaur/guess-game/issues"
+  },
+  "homepage": "https://github.com/Dynosaur/guess-game#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {}
+}
