@@ -4,7 +4,7 @@
   "description": "A game where you must guess a randomly generated number.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
